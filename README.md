@@ -19,6 +19,6 @@ npm run dev
 
 ## 开源协议
 
-[MIT](https://github.com/yelloxing/vue-form-example/blob/master/LICENSE)
+[MIT](https://github.com/AC-angle/vue-form-example/blob/master/LICENSE)
 
 Copyright (c) 2020 走一步 再走一步
